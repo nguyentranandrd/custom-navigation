@@ -177,6 +177,4 @@ class Navigation(
             return this
         }
     }
-
-
 }
